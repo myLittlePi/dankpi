@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from picamera import PiCamera
 import time
 import sys

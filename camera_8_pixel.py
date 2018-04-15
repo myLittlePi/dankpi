@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import picamera
 from picamera.array import PiRGBArray
 import time
